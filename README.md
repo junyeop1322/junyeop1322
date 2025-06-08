@@ -1,8 +1,12 @@
 <div align="center">
 <!-- pip install -r requirements.txt
 uvicorn main:app --reload -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jy981025)](https://solved.ac/jy981025/)
 
+  
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jy981025)](https://solved.ac/jy981025/)
+ -->
+
+ 
 <!--
 **junyeop1322/junyeop1322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
